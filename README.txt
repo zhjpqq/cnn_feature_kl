@@ -10,3 +10,8 @@ Convolutional neural networks (CNNs) have brought in exciting progress in many c
 
 
 NEED: `MatConvNet-1.6`
+
+
+![network-depth1](expimages/network-depth1.png)
+![network-depth2](expimages/network-depth2.png)
+![network-depth3](expimages/network-depth3.png)
